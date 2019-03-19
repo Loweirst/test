@@ -1,9 +1,10 @@
 [{
     "id":123,
-    "title":"Arduino",
+    "title":" GeekCreit Arduino UNO R3",
     "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "img":"ardu.png",
-    "price":12.34
+    "img":"ardu.jpg",
+    "price":12.34,
+    "category":"circuits"
 },{
     "id":456,
     "title":"Ledlampa",
