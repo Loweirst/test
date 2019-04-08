@@ -3,16 +3,13 @@
     "title":" GeekCreit Arduino UNO R3",
     "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
     "img":"ardu.jpg",
-    "price":12.34,
-    "category":"circuits",
-    "longdesc":"Hej lang text online"
+    "price":12.34
 },{
     "id":456,
     "title":"Ledlampa",
     "desc":"Quisquam, veritatis, officia. Veritatis, saepe!",
     "img":"led.png",
-    "price":43.21,
-    "longdesc":"Hej tva lang text online"
+    "price":43.21
 },{
     "id":789,
     "title":"Waterblock",
