@@ -23,28 +23,21 @@
     "id":987,
     "title":"Ledstrip",
     "desc":"Fugit dolorum consequatur rem molestiae, possimus dignissimos!",
-    "img":"ledstrip.png",
+    "img":"ledstrip.jpg",
     "price":78.90,
     "longdesc":"Hej"
 },{
     "id":654,
     "title":"cables",
     "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "img":"cable.png",
+    "img":"cables.jpg",
     "price":76.54,
     "longdesc":"Hej"
 },{
     "id":321,
     "title":"switches",
     "desc":"Earum deleniti modi dolore cum, animi minima, saepe placeat, debitis mollitia veniam.",
-    "img":"switch.png",
+    "img":"switch.jpg",
     "price":23.45,
-    "longdesc":"Hej"
-},{
-    "id":321,
-    "title":"Ruben",
-    "desc":"Earum deleniti modi dolore cum, animi minima, saepe placeat, debitis mollitia veniam.",
-    "img":"switch.png",
-    "price":50,
     "longdesc":"Hej"
 }]
