@@ -4,40 +4,53 @@
     "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
     "img":"ardu.jpg",
     "price":12.34,
-    "longdesc":"Hej"
+    "longdesc":"Hej",
+    "color":"Blue",
+    "lot":"1 pcs"
 },{
     "id":456,
     "title":"Ledlampa",
     "desc":"Quisquam, veritatis, officia. Veritatis, saepe!",
     "img":"led.png",
     "price":43.21,
-    "longdesc":"Hej"
+    "longdesc":"Hej",
+    "color":"RGB",
+    "lot":"120 pcs"
+    
 },{
     "id":789,
     "title":"Waterblock",
     "desc":"Fugit dolorum consequatur rem molestiae, possimus dignissimos!",
     "img":"waterblock.jpg",
     "price":45.67,
-    "longdesc":"Hej"
+    "longdesc":"Hej",
+    "color":"Transparent/silver",
+    "lot":"1 pcs"
 },{
     "id":987,
     "title":"Ledstrip",
     "desc":"Fugit dolorum consequatur rem molestiae, possimus dignissimos!",
     "img":"ledstrip.jpg",
     "price":78.90,
-    "longdesc":"Hej"
+    "longdesc":"Hej",
+    "color":"Black/RGB",
+    "lot":"1 x 5m"
 },{
     "id":654,
     "title":"cables",
     "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
     "img":"cables.jpg",
     "price":76.54,
-    "longdesc":"Hej"
+    "longdesc":"Hej",
+    "color":"Mixed",
+    "lot":"120 pcs"
 },{
     "id":321,
     "title":"switches",
     "desc":"Earum deleniti modi dolore cum, animi minima, saepe placeat, debitis mollitia veniam.",
     "img":"switches.jpg",
     "price":23.45,
-    "longdesc":"Hej"
+    "longdesc":"Hej",
+    "color":"Black/silver",
+    "lot":"100 pcs"
 }]
