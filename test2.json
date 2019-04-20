@@ -5,7 +5,8 @@
     "img":"ardu.jpg",
     "price":12.34,
     "color":"Blue",
-    "lot":"1 pcs"
+    "lot":"1 pcs",
+    "cat":1
 },{
     "id":323,
     "title":"Geekcreit® 375pcs 3MM LED lamps",
@@ -13,7 +14,8 @@
     "img":"led.jpg",
     "price":43.21,
     "color":"RGB",
-    "lot":"375 pcs"
+    "lot":"375 pcs",
+    "cat":1
     
 },{
     "id":324,
@@ -22,7 +24,8 @@
     "img":"waterblock2.jpg",
     "price":45.67,
     "color":"Transparent/silver",
-    "lot":"1 pcs"
+    "lot":"1 pcs",
+    "cat":2
 },{
     "id":325,
     "title":"Ledstrip",
@@ -30,7 +33,8 @@
     "img":"ledstrip.jpg",
     "price":78.90,
     "color":"Black/RGB",
-    "lot":"1 x 5m"
+    "lot":"1 x 5m",
+    "cat":1
 },{
     "id":336,
     "title":"cables",
@@ -38,7 +42,8 @@
     "img":"cables.jpg",
     "price":76.54,
     "color":"Mixed",
-    "lot":"120 pcs"
+    "lot":"120 pcs",
+    "cat":1
 },{
     "id":321,
     "title":"switches",
@@ -46,5 +51,6 @@
     "img":"switches.jpg",
     "price":23.45,
     "color":"Black/silver",
-    "lot":"100 pcs"
+    "lot":"100 pcs",
+    "cat":1
 }]
