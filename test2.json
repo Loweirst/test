@@ -1,7 +1,7 @@
 [{
-    "id":123,
+    "id":956,
     "title":" GeekCreit Arduino UNO R3",
-    "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "desc":"The new GeekCreit Arduino Uno R3 offers even more performace than before, in a more compact, robust and power efficent way for a better price.",
     "img":"ardu.jpg",
     "price":12.34,
     "longdesc":"Hej",
@@ -9,21 +9,19 @@
     "lot":"1 pcs"
 },{
     "id":456,
-    "title":"Ledlampa",
-    "desc":"Quisquam, veritatis, officia. Veritatis, saepe!",
+    "title":"Geekcreit® 375pcs 3MM LED lamps",
+    "desc":" Conventient for DIY and repair equipment and electrial appliances. Perfect use for home, ofice and industry elsctrical equipment and electrial appliances.",
     "img":"led.png",
     "price":43.21,
-    "longdesc":"Hej",
     "color":"RGB",
-    "lot":"120 pcs"
+    "lot":"375 pcs"
     
 },{
     "id":789,
-    "title":"Waterblock",
-    "desc":"Fugit dolorum consequatur rem molestiae, possimus dignissimos!",
-    "img":"waterblock.jpg",
+    "title":"Freezemod Red Copper Plate CPU Water Cooling Block for AM¤",
+    "desc":"Freezemods next generation waterblock is here! With thiner water channels, clearer acrylic and led lights this waterblock meets all your PC astetics needs. Suopport AM4.",
+    "img":"waterblock2.jpg",
     "price":45.67,
-    "longdesc":"Hej",
     "color":"Transparent/silver",
     "lot":"1 pcs"
 },{
@@ -32,7 +30,6 @@
     "desc":"Fugit dolorum consequatur rem molestiae, possimus dignissimos!",
     "img":"ledstrip.jpg",
     "price":78.90,
-    "longdesc":"Hej",
     "color":"Black/RGB",
     "lot":"1 x 5m"
 },{
@@ -41,7 +38,6 @@
     "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
     "img":"cables.jpg",
     "price":76.54,
-    "longdesc":"Hej",
     "color":"Mixed",
     "lot":"120 pcs"
 },{
@@ -50,7 +46,6 @@
     "desc":"Earum deleniti modi dolore cum, animi minima, saepe placeat, debitis mollitia veniam.",
     "img":"switches.jpg",
     "price":23.45,
-    "longdesc":"Hej",
     "color":"Black/silver",
     "lot":"100 pcs"
 }]
