@@ -1,136 +1,128 @@
 [{
-    "id":322,
-    "title":"GeekCreit Arduino UNO R3",
-    "desc":"The new GeekCreit Arduino Uno R3 offers even more performace than before, in a more compact, robust and power efficent way for a better price.",
-    "img":"ardu.jpg",
-    "price":12.34,
-    "color":"Blue",
-    "lot":"1 pcs",
-    "cat":"circ"
-},{
-    "id":323,
-    "title":"Geekcreit® 375pcs 3MM LED lamps",
-    "desc":" Conventient for DIY and repair equipment and electrial appliances. Perfect use for home, ofice and industry elsctrical equipment and electrial appliances.",
-    "img":"led.jpg",
-    "price":43.21,
-    "color":"RGB",
-    "lot":"375 pcs",
-    "cat":"circ"
-    
-},{
-    "id":324,
-    "title":"Freezemod Red Copper Plate CPU Water Cooling Block for AM4",
-    "desc":"Freezemods next generation waterblock is here! With thiner water channels, clearer acrylic and led lights this waterblock meets all your PC astetics needs. Suopport AM4.",
-    "img":"waterblock2.jpg",
-    "price":45.67,
-    "color":"Transparent/silver",
-    "lot":"1 pcs",
-    "cat":"watercl"
-},{
-    "id":325,
-    "title":"Ledstrip",
-    "desc":"Fugit dolorum consequatur rem molestiae, possimus dignissimos!",
-    "img":"ledstrip.jpg",
-    "price":78.90,
-    "color":"Black/RGB",
-    "lot":"1 x 5m",
-    "cat":"circ"
-},{
-    "id":336,
-    "title":"cables",
-    "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    "img":"cables.jpg",
-    "price":76.54,
-    "color":"Mixed",
-    "lot":"120 pcs",
-    "cat":"circ"
-},{
-    "id":321,
-    "title":"switches",
-    "desc":"Earum deleniti modi dolore cum, animi minima, saepe placeat, debitis mollitia veniam.",
-    "img":"switches.jpg",
-    "price":23.45,
-    "color":"Black/silver",
-    "lot":"100 pcs",
-    "cat":"circ"
-}
-{
-    "id":1034213,
-    "title":"PC GPU Water Cooling Block Copper",
-    "desc":"4 holes on the cover, you can easily control the water flows over the top or the side.0.4 mm copper columns on the copper base.",
-    "img":"gpuwaterplock.jpg",
-    "price":30,
-    "color":"Black/silver/copper",
-    "lot":"1 pcs",
-    "cat":"watercl"
-}
-{
-    "id":74397,
-    "title":"28YBJ-48 DC 5V 4 Phase 5 Wire Stepper Motor With ULN2003 Driver Board",
-    "desc":"This is 28YBJ-48 DC 5V 4 phase 5 wire stepper motor with ULN2003 driver board 5-wire phase can drive ordinary uln2003 chip can also be connected as phase 2 may be supporting the development board, direct plug, easy to use stepper motor used in the development board",
-    "img":"stepper.jpg",
-    "price":5,
-    "color":"Silver/blue",
-    "lot":"1 of each",
-    "cat":"circ"
-}
-{
-    "id":321,
-    "title":"Toggle Switch Waterproof Boot Plastic Safety Flip Cover Cap",
-    "desc":"Safety flip cover for toggle switch, the cover should be opened once using toggle switch, when cover is closed, the toggle switch will return to its original position.",
-    "img":"flipcover.jpg",
-    "price":2.5,
-    "color":"Black/silver",
-    "lot":"1 pcs",
-    "cat":"circ"
-}
-{
-    "id":1044806,
-    "title":"Geekcreit Ardunio Mega2560 R3 ATMEGA2560",
-    "desc":"This board is completely solve the traditional 2560 board is not compatible with win7 and win8 system instability.Retains the main chip ATMEGA2560-16TW (Updated version) , replacing the usb chip-16U2, in most applications, these USB interface chips only as a serial brush and communication. With professional usb chip.",
-    "img":"ardumega.jpg",
-    "price":25,
-    "color":"Blue/black",
-    "lot":"1 pcs",
-    "cat":"circ"
-}
-{
-    "id":940937,
-    "title":"Geekcreit Arduino ATmega328P Nano V3 Controller Board",
-    "desc":"Arduino in it's most cheap and small shape. Improved USB chip for speed and stability using WIN7/WIN8. ",
-    "img":"ardunano.jpg",
-    "price":5.5,
-    "color":"Blue/black",
-    "lot":"1 pcs",
-    "cat":"circ"
-}
-{
-    "id":87987,
-    "title":"Geekcreit 5V 4 Channel Relay Module For Arduino",
-    "desc":"Be able to control various appliances, and other equipments with large current. It can be controlled directly by Micro-controller (Arduino , 8051, AVR, PIC, DSP, ARM, ARM, MSP430, TTL logic).",
-    "img":"relay.jpg",
-    "price":4,
-    "color":"Blue",
-    "lot":"1x4 pcs",
-    "cat":"circ"
-}
-{
-    "id":961348,
-    "title":"5pcs 200V 0.2W 10K Ohm Potentiometer Single Linear",
-    "desc":"Resistance: 10KΩ,Power rating: 200mW (0.2W),Voltage: 200V,Tolerance: 20%",
-    "img":"potentiometer.jpg",
-    "price":8,
-    "color":"Silver/orange",
-    "lot":"5 pcs",
-    "cat":"circ"
-}
-{
-    "id":53320,
-    "title":"600pcs 30 Kinds Value 1% 1/4W Metal Film Resistor",
-    "desc":"1% 1/4W metal film resistor assorted kit. 1% tolerance. 30 values, 20pcs each value, total 600pcs.",
-    "img":"resistor.jpg",
-    "price":10,
-    "color":"Silver/blue",
-    "lot":"600 pcs",
-    "cat":"circ"
+	"id": 322,
+	"title": "GeekCreit Arduino UNO R3",
+	"desc": "The new GeekCreit Arduino Uno R3 offers even more performace than before, in a more compact, robust and power efficent way for a better price.",
+	"img": "ardu.jpg",
+	"price": 12.34,
+	"color": "Blue",
+	"lot": "1 pcs",
+	"cat": "circ"
+}, {
+	"id": 323,
+	"title": "Geekcreit® 375pcs 3MM LED lamps",
+	"desc": " Conventient for DIY and repair equipment and electrial appliances. Perfect use for home, ofice and industry elsctrical equipment and electrial appliances.",
+	"img": "led.jpg",
+	"price": 43.21,
+	"color": "RGB",
+	"lot": "375 pcs",
+	"cat": "circ"
+
+}, {
+	"id": 324,
+	"title": "Freezemod Red Copper Plate CPU Water Cooling Block for AM4",
+	"desc": "Freezemods next generation waterblock is here! With thiner water channels, clearer acrylic and led lights this waterblock meets all your PC astetics needs. Suopport AM4.",
+	"img": "waterblock2.jpg",
+	"price": 45.67,
+	"color": "Transparent/silver",
+	"lot": "1 pcs",
+	"cat": "watercl"
+}, {
+	"id": 325,
+	"title": "Ledstrip",
+	"desc": "Fugit dolorum consequatur rem molestiae, possimus dignissimos!",
+	"img": "ledstrip.jpg",
+	"price": 78.90,
+	"color": "Black/RGB",
+	"lot": "1 x 5m",
+	"cat": "circ"
+}, {
+	"id": 336,
+	"title": "cables",
+	"desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+	"img": "cables.jpg",
+	"price": 76.54,
+	"color": "Mixed",
+	"lot": "120 pcs",
+	"cat": "circ"
+}, {
+	"id": 321,
+	"title": "switches",
+	"desc": "Earum deleniti modi dolore cum, animi minima, saepe placeat, debitis mollitia veniam.",
+	"img": "switches.jpg",
+	"price": 23.45,
+	"color": "Black/silver",
+	"lot": "100 pcs",
+	"cat": "circ"
+}, {
+	"id": 1034213,
+	"title": "PC GPU Water Cooling Block Copper",
+	"desc": "4 holes on the cover, you can easily control the water flows over the top or the side.0.4 mm copper columns on the copper base.",
+	"img": "gpuwaterplock.jpg",
+	"price": 30,
+	"color": "Black/silver/copper",
+	"lot": "1 pcs",
+	"cat": "watercl"
+}, {
+	"id": 74397,
+	"title": "28YBJ-48 DC 5V 4 Phase 5 Wire Stepper Motor With ULN2003 Driver Board",
+	"desc": "This is 28YBJ-48 DC 5V 4 phase 5 wire stepper motor with ULN2003 driver board 5-wire phase can drive ordinary uln2003 chip can also be connected as phase 2 may be supporting the development board, direct plug, easy to use stepper motor used in the development board",
+	"img": "stepper.jpg",
+	"price": 5,
+	"color": "Silver/blue",
+	"lot": "1 of each",
+	"cat": "circ"
+}, {
+	"id": 321,
+	"title": "Toggle Switch Waterproof Boot Plastic Safety Flip Cover Cap",
+	"desc": "Safety flip cover for toggle switch, the cover should be opened once using toggle switch, when cover is closed, the toggle switch will return to its original position.",
+	"img": "flipcover.jpg",
+	"price": 2.5,
+	"color": "Black/silver",
+	"lot": "1 pcs",
+	"cat": "circ"
+}, {
+	"id": 1044806,
+	"title": "Geekcreit Ardunio Mega2560 R3 ATMEGA2560",
+	"desc": "This board is completely solve the traditional 2560 board is not compatible with win7 and win8 system instability.Retains the main chip ATMEGA2560-16TW (Updated version) , replacing the usb chip-16U2, in most applications, these USB interface chips only as a serial brush and communication. With professional usb chip.",
+	"img": "ardumega.jpg",
+	"price": 25,
+	"color": "Blue/black",
+	"lot": "1 pcs",
+	"cat": "circ"
+}, {
+	"id": 940937,
+	"title": "Geekcreit Arduino ATmega328P Nano V3 Controller Board",
+	"desc": "Arduino in it's most cheap and small shape. Improved USB chip for speed and stability using WIN7/WIN8. ",
+	"img": "ardunano.jpg",
+	"price": 5.5,
+	"color": "Blue/black",
+	"lot": "1 pcs",
+	"cat": "circ"
+}, {
+	"id": 87987,
+	"title": "Geekcreit 5V 4 Channel Relay Module For Arduino",
+	"desc": "Be able to control various appliances, and other equipments with large current. It can be controlled directly by Micro-controller (Arduino , 8051, AVR, PIC, DSP, ARM, ARM, MSP430, TTL logic).",
+	"img": "relay.jpg",
+	"price": 4,
+	"color": "Blue",
+	"lot": "1x4 pcs",
+	"cat": "circ"
+}, {
+	"id": 961348,
+	"title": "5pcs 200V 0.2W 10K Ohm Potentiometer Single Linear",
+	"desc": "Resistance: 10KΩ,Power rating: 200mW (0.2W),Voltage: 200V,Tolerance: 20%",
+	"img": "potentiometer.jpg",
+	"price": 8,
+	"color": "Silver/orange",
+	"lot": "5 pcs",
+	"cat": "circ"
+}, {
+	"id": 53320,
+	"title": "600pcs 30 Kinds Value 1% 1/4W Metal Film Resistor",
+	"desc": "1% 1/4W metal film resistor assorted kit. 1% tolerance. 30 values, 20pcs each value, total 600pcs.",
+	"img": "resistor.jpg",
+	"price": 10,
+	"color": "Silver/blue",
+	"lot": "600 pcs",
+	"cat": "circ"
 }]
