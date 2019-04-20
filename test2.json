@@ -1,14 +1,13 @@
 [{
-    "id":956,
-    "title":" GeekCreit Arduino UNO R3",
+    "id":322,
+    "title":"GeekCreit Arduino UNO R3",
     "desc":"The new GeekCreit Arduino Uno R3 offers even more performace than before, in a more compact, robust and power efficent way for a better price.",
     "img":"ardu.jpg",
     "price":12.34,
-    "longdesc":"Hej",
     "color":"Blue",
     "lot":"1 pcs"
 },{
-    "id":456,
+    "id":323,
     "title":"Geekcreit® 375pcs 3MM LED lamps",
     "desc":" Conventient for DIY and repair equipment and electrial appliances. Perfect use for home, ofice and industry elsctrical equipment and electrial appliances.",
     "img":"led.jpg",
@@ -17,7 +16,7 @@
     "lot":"375 pcs"
     
 },{
-    "id":789,
+    "id":324,
     "title":"Freezemod Red Copper Plate CPU Water Cooling Block for AM4",
     "desc":"Freezemods next generation waterblock is here! With thiner water channels, clearer acrylic and led lights this waterblock meets all your PC astetics needs. Suopport AM4.",
     "img":"waterblock2.jpg",
@@ -25,7 +24,7 @@
     "color":"Transparent/silver",
     "lot":"1 pcs"
 },{
-    "id":987,
+    "id":325,
     "title":"Ledstrip",
     "desc":"Fugit dolorum consequatur rem molestiae, possimus dignissimos!",
     "img":"ledstrip.jpg",
@@ -33,7 +32,7 @@
     "color":"Black/RGB",
     "lot":"1 x 5m"
 },{
-    "id":654,
+    "id":336,
     "title":"cables",
     "desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
     "img":"cables.jpg",
