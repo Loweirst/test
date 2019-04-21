@@ -152,4 +152,76 @@
 	"color": "Black",
 	"lot": "1 pcs",
 	"cat": "circ"
+}, {
+	"id": 1077431,
+	"title": "9.5x12.7mm 2M Transparent PC Water Cooling PVC Tube",
+	"desc": ". Fluorescent Pipe, Transparent Pipe. Good insulation, Oxygen resistance, No corrosion",
+	"img": "tube.jpg",
+	"price": 8,
+	"color": "Transparent",
+	"lot": "1x 2m",
+	"cat": "watercl"
+}, {
+	"id": 1229125,
+	"title": "2x G1/4 External Thread Male to Male Water Cooling Fittings",
+	"desc": "G1/4 External Thread Male to Male Water Cooling Fittings Butted Fittings Extenders.  Connector: G1/4 Male to Male. Made out of brass.",
+	"img": "malemalefitting.jpg",
+	"price": 8.2,
+	"color": "Black and silver",
+	"lot": "2 pcs",
+	"cat": "watercl"
+}, {
+	"id": 1292162,
+	"title": "50cm/19.7'' Water Cooling Rigid Tube",
+	"desc": "Tubing is highly transparent and the extra thick 2mm wall thickness makes the tubing easier to bend without deforming. PETG material: durable, do not easy to broken.",
+	"img": "bluetube.jpg",
+	"price": 6,
+	"color": "Blue/transparent",
+	"lot": "1x 50cm",
+	"cat": "watercl"
+}, {
+	"id": 1279644,
+	"title": "G1/4 Thread Dual Inner Teeth PC Water Cooling Shutoff Valve",
+	"desc": "Used to close part of the water channel. Great design of handle, good seal, super precision of tooth. Brass plated nickel + aluminum (handle) material",
+	"img": "bluevalve.jpg",
+	"price": 10.5,
+	"color": "Silver/blue",
+	"lot": "1 pcs",
+	"cat": "watercl"
+}, {
+	"id": 1228134,
+	"title": "G1/4 Thread Female to Male 90 Degree Fittings",
+	"desc": "90 Degree Angle Fittings for Water Cooling. Made out of Chrome plated brass. ",
+	"img": "90degreefitting.jpg",
+	"price": 6,
+	"color": "Silver",
+	"lot": "1 pcs",
+	"cat": "watercl"
+}, {
+	"id": 1298166,
+	"title": "Copper CPU Cooler Water Cooling Water Block",
+	"desc": "Cheaper watercooling block with support for both intel LGA115X and AM4. Made out of red copper and Acrylic. Two fttings included.",
+	"img": "cpuwaterblock2.jpg",
+	"price": 20,
+	"color": "Black/red/transparent",
+	"lot": "1 pcs",
+	"cat": "watercl"
+}, {
+	"id": 1235953,
+	"title": "G1/4 Thread Rigid Tube Compression Fittings OD 14mm",
+	"desc": "Clean watercooling fitting made out of brass. Nickel plated surface treatment.Suitable for outer diameter 14mm hard tube.",
+	"img": "od14fitting.jpg",
+	"price": 6.5,
+	"color": "White",
+	"lot": "1 pcs",
+	"cat": "watercl"
+}, {
+	"id": 1329130,
+	"title": "PC Water Cooling Kit 240mm",
+	"desc": "A kit with watercooling for your whole rig! Includes: 240mm radiator, pump/res combo, 2 fans, tube, fittings and waterblock for both cpu and gpu.",
+	"img": "waterkit.jpg",
+	"price": 100,
+	"color": "Black/red/transparent",
+	"lot": "1 kit",
+	"cat": "watercl"
 }]
