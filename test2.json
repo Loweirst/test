@@ -9,7 +9,7 @@
 	"cat": "circ"
 }, {
 	"id": 323,
-	"title": "Geekcreit® 375pcs 3MM LED lamps",
+	"title": "Geekcreit 375pcs 3MM LED lamps",
 	"desc": " Conventient for DIY and repair equipment and electrial appliances. Perfect use for home, ofice and industry elsctrical equipment and electrial appliances.",
 	"img": "led.jpg",
 	"price": 43.21,
@@ -27,29 +27,29 @@
 	"lot": "1 pcs",
 	"cat": "watercl"
 }, {
-	"id": 325,
-	"title": "Ledstrip",
-	"desc": "Fugit dolorum consequatur rem molestiae, possimus dignissimos!",
+	"id":  51601,
+	"title": "5M 5050 RGB Waterproof ledstrip + controller",
+	"desc": "Low power consumption. Super-bright but stil low temperature.Self-adhesive back with Adhesive tape for secure and easy application. Working with 12 volt DC power.",
 	"img": "ledstrip.jpg",
-	"price": 78.90,
+	"price": 15,
 	"color": "Black/RGB",
 	"lot": "1 x 5m",
 	"cat": "circ"
 }, {
-	"id": 336,
-	"title": "cables",
-	"desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+	"id": 1054670,
+	"title": "Geekcreit 3 IN 1 120pcs jumper cables",
+	"desc": "120pcs 10cm jumper cable dupont wire for Arduino: Male To Female, Female To Female, Male To Male (each 40pcs). Durable contacts. Comes in different colors.",
 	"img": "cables.jpg",
-	"price": 76.54,
+	"price": 6,
 	"color": "Mixed",
 	"lot": "120 pcs",
 	"cat": "circ"
 }, {
-	"id": 321,
-	"title": "switches",
-	"desc": "Earum deleniti modi dolore cum, animi minima, saepe placeat, debitis mollitia veniam.",
+	"id": 917570,
+	"title": "Geekcreit 100pcs Mini Micro Momentary Tactile Touch Switch",
+	"desc": "Feature momentary contact, 4 pins, round black push button, through hole mounting, 6 x 6 x 5mm size. Can be connected to practially anything!",
 	"img": "switches.JPG",
-	"price": 23.45,
+	"price": 5,
 	"color": "Black/silver",
 	"lot": "100 pcs",
 	"cat": "circ"
