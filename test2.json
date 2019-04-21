@@ -65,7 +65,7 @@
 }, {
 	"id": 74397,
 	"title": "28YBJ-48 DC 5V 4 Phase 5 Wire Stepper Motor With ULN2003 Driver Board",
-	"desc": "This is 28YBJ-48 DC 5V 4 phase 5 wire stepper motor with ULN2003 driver board 5-wire phase can drive ordinary uln2003 chip can also be connected as phase 2 may be supporting the development board, direct plug, easy to use stepper motor used in the development board",
+	"desc": "This is 28YBJ-48 DC 5V 4 phase 5 wire stepper motor with ULN2003 driver board 5-wire phase can drive ordinary uln2003 chip can also be connected as phase 2.",
 	"img": "stepper.jpg",
 	"price": 5,
 	"color": "Silver/blue",
@@ -83,7 +83,7 @@
 }, {
 	"id": 1044806,
 	"title": "Geekcreit Ardunio Mega2560 R3 ATMEGA2560",
-	"desc": "This board is completely solve the traditional 2560 board is not compatible with win7 and win8 system instability.Retains the main chip ATMEGA2560-16TW (Updated version) , replacing the usb chip-16U2, in most applications, these USB interface chips only as a serial brush and communication. With professional usb chip.",
+	"desc": "This board is completely solve the traditional 2560 board is not compatible with win7 and win8 system instability.Retains the main chip ATMEGA2560-16TW (Updated version).",
 	"img": "ardumega.jpg",
 	"price": 25,
 	"color": "Blue/black",
@@ -101,7 +101,7 @@
 }, {
 	"id": 87987,
 	"title": "Geekcreit 5V 4 Channel Relay Module For Arduino",
-	"desc": "Be able to control various appliances, and other equipments with large current. It can be controlled directly by Micro-controller (Arduino , 8051, AVR, PIC, DSP, ARM, ARM, MSP430, TTL logic).",
+	"desc": "Be able to control various appliances, and other equipments with large current. It can be controlled directly by Micro-controller.",
 	"img": "relay.jpg",
 	"price": 4,
 	"color": "Blue",
